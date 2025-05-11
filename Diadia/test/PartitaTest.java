@@ -1,7 +1,9 @@
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
+package it.uniroma3.diadia;
 
-import org.junit.Test;
+import static org.junit.jupiter.Assert.assertEquals;
+import static org.junit.jupiter.Assert.assertFalse;
+
+import org.junit.jupiter.Test;
 
 import it.uniroma3.diadia.Partita;
 import it.uniroma3.diadia.ambienti.Stanza;
